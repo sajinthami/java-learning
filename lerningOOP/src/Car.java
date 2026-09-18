@@ -12,4 +12,9 @@ public class Car {
     void stop() {
         System.out.println("You stop the engine.");
     }
+
+    boolean tired () {
+        System.out.println("Sorry too tired to code today.... Will code tomorrow for sure");
+        return false;
+    }
 }
