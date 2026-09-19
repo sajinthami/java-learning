@@ -16,5 +16,12 @@ public class Car {
     boolean tired () {
         System.out.println("Sorry too tired to code today.... Will code tomorrow for sure");
         return false;
+
+    }
+
+    boolean tired2 () {
+        System.out.println("Its my second day and I am still tired because of my job start this tomorrow");
+        return false;
+
     }
 }

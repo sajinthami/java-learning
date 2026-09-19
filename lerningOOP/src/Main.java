@@ -11,6 +11,7 @@ public class Main {
         System.out.println(car.make + "  " + car.model);
 
         System.out.println(car.tired());
+        System.out.println(car.tired2());
 
     }
 }
