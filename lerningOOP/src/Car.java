@@ -24,4 +24,9 @@ public class Car {
         return false;
 
     }
+    boolean tired3 () {
+        System.out.println("Not today hahah sorry");
+        return false;
+
+    }
 }
