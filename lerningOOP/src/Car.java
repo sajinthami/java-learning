@@ -29,4 +29,12 @@ public class Car {
         return false;
 
     }
+
+
+boolean tired4 () {
+    System.out.println("Not today hahah sorry");
+    return false;
+
+}
+
 }

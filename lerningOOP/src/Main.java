@@ -13,6 +13,7 @@ public class Main {
         System.out.println(car.tired());
         System.out.println(car.tired2());
         System.out.println(car.tired3());
+        System.out.println(car.tired4());
 
     }
 }
