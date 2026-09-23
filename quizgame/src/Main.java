@@ -1,3 +1,5 @@
+package quizgame;
+
 import java.util.Scanner;
 
 public class Main {
