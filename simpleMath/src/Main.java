@@ -16,6 +16,10 @@ public class Main {
 
         int N = Integer.parseInt(bufferedReader.readLine().trim());
 
+        System.out.println("The multiplication of integer " + N + " is: ");
+
+
+
         for (int i = 1; i <= 10; i++) {
             System.out.println(N + " x " + i + " = " + (N * i));
         }
