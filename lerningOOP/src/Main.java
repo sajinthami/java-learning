@@ -15,5 +15,7 @@ public class Main {
         System.out.println(car.tired3());
         System.out.println(car.tired4());
 
+        System.out.println("Hi today I learnded about githuhb pull, merge push etc..");
+
     }
 }
