@@ -10,6 +10,8 @@ public class Main {
         Employee employee = new Employee("Rubeus", "Hagrid", 50000);
 
         employee.showSalary();
+        student.showName();
+        student.showGPA();
     }
 }
 
