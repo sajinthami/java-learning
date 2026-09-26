@@ -64,3 +64,6 @@ class Main {
         System.out.println("Reversed Number: " + reversed);
     }
 }
+
+
+// Why am I too lazy to code sorry
