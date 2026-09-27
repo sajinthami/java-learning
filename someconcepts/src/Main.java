@@ -67,3 +67,6 @@ class Main {
 
 
 // Why am I too lazy to code sorry
+
+
+// Goodnight for today also
