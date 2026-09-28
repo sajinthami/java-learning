@@ -28,6 +28,7 @@ public class Main {
 
         System.out.println("******************************");
         System.out.println("Welcome to the Java Quiz Game!");
+        System.out.println("Welcome to the Java Quiz Game!");
         System.out.println("******************************");
 
         for(int i = 0; i < questions.length; i++){
@@ -48,6 +49,7 @@ public class Main {
             }
             else{
                 System.out.println("********");
+                System.out.println(" WRONG! ");
                 System.out.println(" WRONG! ");
                 System.out.println("********");
             }
