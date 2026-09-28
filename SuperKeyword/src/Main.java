@@ -12,6 +12,7 @@ public class Main {
         employee.showSalary();
         student.showName();
         student.showGPA();
+        employee.showName();
     }
 }
 
