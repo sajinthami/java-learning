@@ -120,3 +120,5 @@ public class Main {
         scanner.close();
     }
 }
+
+// Why is it not working?
