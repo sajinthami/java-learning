@@ -27,8 +27,10 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("******************************");
+        System.out.println("******************************");
         System.out.println("Welcome to the Java Quiz Game!");
         System.out.println("Welcome to the Java Quiz Game!");
+        System.out.println("******************************");
         System.out.println("******************************");
 
         for(int i = 0; i < questions.length; i++){
@@ -43,14 +45,18 @@ public class Main {
 
             if(guess == answers[i]){
                 System.out.println("********");
+                System.out.println("********");
                 System.out.println("CORRECT!");
+                System.out.println("********");
                 System.out.println("********");
                 score++;
             }
             else{
                 System.out.println("********");
+                System.out.println("********");
                 System.out.println(" WRONG! ");
                 System.out.println(" WRONG! ");
+                System.out.println("********");
                 System.out.println("********");
             }
         }
